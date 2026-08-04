@@ -20,6 +20,7 @@ My goal with this project is to design and build a safe, middle of the road elec
 
 <img width="435" height="617" alt="Screenshot 2026-07-14 at 8 56 33 AM" src="https://github.com/user-attachments/assets/490d54d0-c4e6-4959-8247-36e8224ea907" />
 
+<img width="445" height="700" alt="Screenshot 2026-08-02 at 9 45 34 PM" src="https://github.com/user-attachments/assets/a00ca2e0-45e0-406a-a72a-66ee4af68f53" />
   
 <img width="914" height="635" alt="Screenshot 2026-07-14 at 9 00 08 AM" src="https://github.com/user-attachments/assets/8b2f811f-7bd8-4946-b189-e27579355b31" />
 
@@ -40,6 +41,11 @@ My goal with this project is to design and build a safe, middle of the road elec
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
 <img width="872" height="670" alt="Screenshot 2026-07-26 at 10 30 43 PM" src="https://github.com/user-attachments/assets/8ee4705b-d508-47a7-8c02-fc7ea043f699" />
+
+<img width="521" height="703" alt="Screenshot 2026-08-02 at 9 45 57 PM" src="https://github.com/user-attachments/assets/b6f2df05-a1e4-4f8c-9c72-1b64ec26bc82" />
+
+<img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
+
 
 
 
