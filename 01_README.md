@@ -1,13 +1,16 @@
 Paramount-Series-50-Ebike-Conversion
 
 
-My goal with this project was to design and build a safe and durable, middle of the road electric bike using an older Paramount Series 50 mountain bike frame. I did this by building my own 13S5P 840Wh battery from scratch and using this to power a compatible 500W hub motor controlled by an 18A peak current controller. Here are my design and progress photos/videos:
+My goal with this project was to design and build a safe and durable, middle of the road electric bike using an older Paramount Series 50 mountain bike frame. I did this by building my own 13S5P 840Wh battery from scratch and using this to power a compatible 500W hub motor controlled by an 18A peak current controller. Here are my design photos:
 
 
 
 
 
 <img width="524" height="556" alt="Image 7-4-26 at 12 36 PM" src="https://github.com/user-attachments/assets/a3697c77-475f-4fb9-b861-e90d08b73555" /><img width="4280" height="3352" alt="IMG_5607 2" src="https://github.com/user-attachments/assets/4e9c9497-758e-43ba-94ff-a1ab2f4f7059" />
+<img width="1042" height="633" alt="Screenshot 2026-08-05 at 10 01 35 AM" src="https://github.com/user-attachments/assets/a332fdd0-7fc1-4517-8106-d221066df356" />
+
+Here are my progress photos:
 <img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
 <img width="4032" height="3024" alt="IMG_5485-2" src="https://github.com/user-attachments/assets/e7348fb4-9ecc-4928-9e7b-9be136b2de9b" />
 <img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
