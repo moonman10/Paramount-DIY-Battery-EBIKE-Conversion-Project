@@ -16,6 +16,8 @@ System Block Diagram/Design Photos:
 
 <img width="1042" height="633" alt="Screenshot 2026-08-05 at 10 01 35 AM" src="https://github.com/user-attachments/assets/a332fdd0-7fc1-4517-8106-d221066df356" />
 
+<img width="4280" height="3352" alt="IMG_5607 2" src="https://github.com/user-attachments/assets/4e9c9497-758e-43ba-94ff-a1ab2f4f7059" />
+
 Important Electrical Calculations:
 
 1. Battery Energy:
@@ -54,7 +56,6 @@ Build Process Summary:
 
 <img width="672" height="265" alt="Screenshot 2026-08-06 at 11 01 43 AM" src="https://github.com/user-attachments/assets/2882ed30-11f5-4124-b5d2-0e9b2543b0b6" />
 
-
 Mechanical Integration Summary:
 
 <img width="657" height="272" alt="Screenshot 2026-08-06 at 10 47 08 AM" src="https://github.com/user-attachments/assets/5a182f9f-d45d-4f2a-b3f4-ba868b101b4a" />
@@ -68,8 +69,6 @@ Future Improvements:
 <img width="668" height="190" alt="Screenshot 2026-08-06 at 11 47 57 AM" src="https://github.com/user-attachments/assets/1a218c8f-23fe-496b-8edf-86c37618dd3f" />
 
 Here are my progress photos:
-
-<img width="4280" height="3352" alt="IMG_5607 2" src="https://github.com/user-attachments/assets/4e9c9497-758e-43ba-94ff-a1ab2f4f7059" />
 
 <img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
 
@@ -96,7 +95,9 @@ Here are my progress photos:
 <img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
 
 <img width="697" height="377" alt="Screenshot 2026-07-14 at 9 09 55 AM" src="https://github.com/user-attachments/assets/4c8fd2ec-bdcf-4164-b190-4b1ba884973e" />
+
 <img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
+
 <img width="494" height="709" alt="Screenshot 2026-07-14 at 9 23 11 AM" src="https://github.com/user-attachments/assets/89626d5c-a3ca-45f4-b46a-114505511429" />
 
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
@@ -107,11 +108,7 @@ https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
 <img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
 
-
-
 https://github.com/user-attachments/assets/bb1f5c62-88b5-4758-91f3-706803598af2
-
-
 
 https://github.com/user-attachments/assets/347cb967-c241-420a-a204-8af80790632d
 
