@@ -59,6 +59,10 @@ Mechanical Integration Summary:
 
 <img width="657" height="272" alt="Screenshot 2026-08-06 at 10 47 08 AM" src="https://github.com/user-attachments/assets/5a182f9f-d45d-4f2a-b3f4-ba868b101b4a" />
 
+What I demonstrated:
+
+<img width="653" height="295" alt="Screenshot 2026-08-06 at 11 15 30 AM" src="https://github.com/user-attachments/assets/e1ac8cb0-e070-4570-9b46-f1e9ed8c580d" />
+
 
 Here are my progress photos:
 
