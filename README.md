@@ -108,11 +108,6 @@ https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
 <img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
 
-https://github.com/user-attachments/assets/bb1f5c62-88b5-4758-91f3-706803598af2
-
-https://github.com/user-attachments/assets/347cb967-c241-420a-a204-8af80790632d
-
-
 
 
 
