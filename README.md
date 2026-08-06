@@ -5,7 +5,7 @@ This project was to design and build a safe and durable, middle of the road elec
 
 Project Overview:
 
-<img width="550" height="711" alt="Screenshot 2026-08-05 at 8 10 52 PM" src="https://github.com/user-attachments/assets/03898717-ada9-4357-8071-ea702afb67cf" />
+<img width="534" height="719" alt="Screenshot 2026-08-05 at 8 33 35 PM" src="https://github.com/user-attachments/assets/8b2be86d-5b81-497a-bb13-47e3d0638a7d" />
 
 
 Key Specifications:
