@@ -12,7 +12,7 @@ Key Specifications:
 
 <img width="947" height="251" alt="Screenshot 2026-08-05 at 9 39 43 PM" src="https://github.com/user-attachments/assets/ac05fb26-7b75-4e40-8b82-85965f790e0d" />
 
-System Block Diagram:
+System Block Diagram/Design Photos:
 
 <img width="1042" height="633" alt="Screenshot 2026-08-05 at 10 01 35 AM" src="https://github.com/user-attachments/assets/a332fdd0-7fc1-4517-8106-d221066df356" />
 
