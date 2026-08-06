@@ -3,6 +3,11 @@ Paramount-Series-50-Ebike-Conversion
 
 This project was to design and build a safe and durable, middle of the road electric bike using an older Paramount Series 50 mountain bike frame.
 
+Project Overview:
+
+<img width="550" height="711" alt="Screenshot 2026-08-05 at 8 10 52 PM" src="https://github.com/user-attachments/assets/03898717-ada9-4357-8071-ea702afb67cf" />
+
+
 Key Specifications:
 
 <img width="541" height="145" alt="Screenshot 2026-08-05 at 8 08 39 PM" src="https://github.com/user-attachments/assets/1a33efeb-1664-4c64-93c1-108aa09263e8" />
