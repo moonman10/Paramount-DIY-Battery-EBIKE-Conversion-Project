@@ -50,6 +50,10 @@ Vdrop = Vinitial - Vfinal = 51.4 - 50.2 = 1.2V.
 
 Further calculations can be found in electrical and power calculations file.
 
+Mechanical Integration Summary:
+
+<img width="657" height="272" alt="Screenshot 2026-08-06 at 10 47 08 AM" src="https://github.com/user-attachments/assets/5a182f9f-d45d-4f2a-b3f4-ba868b101b4a" />
+
 Here are my progress photos:
 
 <img width="524" height="556" alt="Image 7-4-26 at 12 36 PM" src="https://github.com/user-attachments/assets/a3697c77-475f-4fb9-b861
