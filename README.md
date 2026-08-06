@@ -23,6 +23,40 @@ System Block Diagram:
 
 <img width="1042" height="633" alt="Screenshot 2026-08-05 at 10 01 35 AM" src="https://github.com/user-attachments/assets/a332fdd0-7fc1-4517-8106-d221066df356" />
 
+Important Electrical Calculations:
+
+1. Battery Energy:
+
+E = V(nominal)xAh(total) = 46.8 x 13 = 608.4 Wh
+
+Battery has an energy capacity of 608.4 Wh. Usable energy may be lower.
+
+2. Maximum Controller Input Power:
+
+The controller has a max rated input current of 18A.
+
+At full charge the battery has 54.6V. So Pmax = 54.6 x 18 = 982.8 W.
+
+At nominal voltage of 46.8V the Pnominal = 46.8 x 18 = 842.4 W.
+
+These are theoretical power input values.
+
+3. Estimated Range:
+
+Uses a 90% usable energy estimation, and an average estimated consumption of 18Wh/mile which is typical for this motor.
+
+Range = Usable energy/(Wh/Mile) = (.9 X 608.4)/(18) = 30.42 miles.
+
+4. Voltage Sag Test:
+
+Uses a measured initial voltage of 51.4V and a display measured post-acceleration voltage of 50.2V.
+
+Vdrop = Vinitial - Vfinal = 51.4 - 50.2 = 1.2V.
+
+%drop = 1.2/51.4 = 2.3%.
+
+Further calculations can be found in electrical and power calculations file.
+
 Here are my progress photos:
 <img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
 <img width="4032" height="3024" alt="IMG_5485-2" src="https://github.com/user-attachments/assets/e7348fb4-9ecc-4928-9e7b-9be136b2de9b" />
