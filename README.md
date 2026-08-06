@@ -69,9 +69,6 @@ Future Improvements:
 
 Here are my progress photos:
 
-<img width="524" height="556" alt="Image 7-4-26 at 12 36 PM" src="https://github.com/user-attachments/assets/a3697c77-475f-4fb9-b861
-e90d08b73555" />
-
 <img width="4280" height="3352" alt="IMG_5607 2" src="https://github.com/user-attachments/assets/4e9c9497-758e-43ba-94ff-a1ab2f4f7059" />
 
 <img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
