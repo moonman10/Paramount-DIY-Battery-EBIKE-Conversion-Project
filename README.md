@@ -10,7 +10,8 @@ Project Overview:
 
 Key Specifications:
 
-<img width="541" height="145" alt="Screenshot 2026-08-05 at 8 08 39 PM" src="https://github.com/user-attachments/assets/1a33efeb-1664-4c64-93c1-108aa09263e8" />
+<img width="923" height="227" alt="Screenshot 2026-08-05 at 8 30 04 PM" src="https://github.com/user-attachments/assets/692741af-1a6b-4898-9d0e-9392c2e1c751" />
+
 
 
 
