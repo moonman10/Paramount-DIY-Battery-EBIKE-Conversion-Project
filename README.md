@@ -63,6 +63,9 @@ What I demonstrated:
 
 <img width="653" height="295" alt="Screenshot 2026-08-06 at 11 15 30 AM" src="https://github.com/user-attachments/assets/e1ac8cb0-e070-4570-9b46-f1e9ed8c580d" />
 
+Future Improvements:
+
+<img width="668" height="190" alt="Screenshot 2026-08-06 at 11 47 57 AM" src="https://github.com/user-attachments/assets/1a218c8f-23fe-496b-8edf-86c37618dd3f" />
 
 Here are my progress photos:
 
