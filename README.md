@@ -1,7 +1,6 @@
 Paramount-Series-50-Ebike-Conversion
 
-
-This project was to design and build a safe and durable, middle of the road electric bike using an older Paramount Series 50 mountain bike frame.
+I designed and built my own 13S5P lithium ion battery pack in order to convert an old Paramount mountain bike into an ebike. 
 
 Project Overview:
 
