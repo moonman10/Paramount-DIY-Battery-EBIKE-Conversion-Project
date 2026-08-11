@@ -1,0 +1,9 @@
+The main risks that I identified with this project were electrical mistakes, rear axle failures, unsecure wiring, brake failure.
+
+Electrical Mistakes: There were a few safety precautions I took to ensure that myself and others were safe at all times from short circuits, cell overheating, and BMS failure.
+
+For short circuits I made sure that metal tools stayed far away from the cells and wiring at all times unless I was intentionally using them for a specific task. I understood that the battery pack could easily start a fire due to a massive surge in electrical current through whatever is shorting your battery. 
+
+For cell overheating, the main thing was to make sure I was using a properly configured spot welder instead of a soldering iron to weld the nickel strips onto the battery. The soldering iron would have heated up the battery terminals and could potentially damage them.
+
+I also made sure to not hold the soldering iron on the BMS for too long. It has sensitive MOSFETS that could easily be damaged by excess heat. I needed to use proper soldering techniques such as tinning to make sure that I got strong welds quickly. The thicker gauge wire I used for the P- and B- terminals were a bit harder to solder and I needed to be patient and sometimes let the BMS cool down before trying again to get a proper weld. I made sure that the BMS had cell balancing so that the different cell groups did not start to have unbalanced voltages. The BMS was also rated for 30A of continuous current which was more than enough for the power that the motor was requesting.
