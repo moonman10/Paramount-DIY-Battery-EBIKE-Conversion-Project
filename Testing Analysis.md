@@ -1,4 +1,4 @@
-E-Bike Test Analysis
+Testing Analysis
 Test Goals
 The bike was evaluated with three primary goals in mind:
 Safety and durability — The bike should remain mechanically secure, electrically stable, and controllable during normal riding, acceleration, braking, and hill climbing.
