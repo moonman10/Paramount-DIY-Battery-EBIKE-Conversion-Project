@@ -94,6 +94,16 @@ Future Improvements:
 
 - Lastly, I would like to make the bike more comfortable. The bike currently has no suspension and feels a bit stiff. I would like to add a shock absorbing stem and a dropper seat post.
 
+What I learned:
+
+- How individual lithium ion cells are combined to create one larger functioning battery.
+
+- The general idea behind how a battery pack is assembled.
+
+- How the battery and controller/inverter work together to supply power to the motor.
+
+- How CC-CV charging works and why is it necessary.
+
 Here are my progress photos:
 
 <img width="3024" height="4032" alt="IMG_5564" src="https://github.com/user-attachments/assets/766d0c4f-565c-4d4b-8341-a2e718c055b3" />
