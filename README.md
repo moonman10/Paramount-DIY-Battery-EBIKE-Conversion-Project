@@ -4,13 +4,21 @@ I designed and built my own 13S5P lithium ion battery pack in order to convert a
 
 Project Overview:
 
+What I Built:
 
+I built a 46.8V, 13Ah battery for my 500W motor to power a low to medium speed Class 3 Ebike. I used an old steel cross country mountain bike frame that my grandfather has been riding since the 70’s. The electrical system includes pedal assist, a throttle, brake sensors,  an 18A max current controller. The mechanical system includes new rim brakes, new chain, new rear derailleur, and a new cassette. I decided to not add shifting because the chain is on the lowest gear and with the power from the battery, there isn’t ever any need for a lower gear. 
 
-Key Specifications:
+Why I Built It: 
 
-<img width="947" height="251" alt="Screenshot 2026-08-05 at 9 39 43 PM" src="https://github.com/user-attachments/assets/ac05fb26-7b75-4e40-8b82-85965f790e0d" />
+I decided to build this bike for my father and grandfather. My grandfather has been riding this frame since the 70’s. He gifted this bike to my father a few years back after he stopped riding. It had a lot of worn down parts and was kind of a pain to ride so my father didn’t get much use out of it. Coming home for the summer, I decided it was time to give the bike new life. My father has always wanted an ebike and so I decided I could kill two birds with one stone and build one for him. Being interested in batteries, I decided to take on the extra cost of building my own battery because I thought it would make the project more challenging and interesting. My father now enjoys riding his bike around town. He likes to be able to relax and rely on the throttle, but also get a bit of a workout in and just use the pedal assist.
 
-<img width="435" height="617" alt="Screenshot 2026-07-14 at 8 56 33 AM" src="https://github.com/user-attachments/assets/490d54d0-c4e6-4959-8247-36e8224ea907" />
+My Goals and Constraints:
+
+My goals were to build a safe and durable ebike capable of reaching 25 MPH on flat roads without pedaling, and with 30 miles of range. My main constraint was cost. I decided I had a budget of $1000 dollars for this project. Building the battery was the biggest cost as I had very little equipment at home to do this with and cells are expensive. I also wanted the bike to weigh in at under 50 pounds when everything was on the bike. I also needed to make sure that the bike frame could accommodate all of the new things going on the bike as well as all of the torque that the motor puts on the rear dropout. Building the battery was the biggest cost as I had very little equipment at home to do this with and cells are expensive. 
+
+Outcome:
+
+On flat pavement, the bike is able to reach 25 MPH without any pedaling. With pedaling, it sits comfortably at 28-29 MPH. The range of the bike will depend on whether or not you are using heavy throttle or more pedal assist and what speed mode you are mainly in. It hovers around an estimated 35 miles when using heavy throttle and some pedaling. It has a total of 608.4 Wh but usable energy is probably a bit lower. So with the 35 miles of range, the estimated Wh/mile is around 17.38. I ended up spending around $990 dollars on this project. The bike weighs 40.5 pounds. Everything fit well on the bike like I planned except the front derailleur. The bike is fitted with many important safety features such as a torque arm, brake sensors, and zip ties for holding cables in place.
 
 System Block Diagram/Design Photos:
 
@@ -38,35 +46,41 @@ These are theoretical power input values.
 
 3. Estimated Range:
 
-Uses a 90% usable energy estimation, and an average estimated consumption of 18Wh/mile which is typical for this motor.
+Using a 90% usable energy estimation, and an average estimated consumption of 17Wh/mile which is typical for this motor:
 
-Range = Usable energy/(Wh/Mile) = (.9 X 608.4)/(18) = 30.42 miles.
+Range = Usable energy/(Wh/Mile) = (.9 X 608.4)/(17) = 32.2 miles.
 
 4. Voltage Sag Test:
 
-Uses a measured initial voltage of 51.4V and a display measured post-acceleration voltage of 50.2V.
+Uses a measured initial voltage of 50.4V and a display measured post-acceleration voltage of 50.2V. This was for a 7 second acceleration test and used the display to measure voltage which is probably inaccurate.
 
-Vdrop = Vinitial - Vfinal = 51.4 - 50.2 = 1.2V.
+Vdrop = Vinitial - Vfinal = 50.4 - 50.2 = 0.2V.
 
-%drop = 1.2/51.4 = 2.3%.
-
-Further calculations can be found in electrical and power calculations file.
+%drop = 0.2/50.4 = .39%
 
 Build Process Summary:
 
-<img width="672" height="265" alt="Screenshot 2026-08-06 at 11 01 43 AM" src="https://github.com/user-attachments/assets/2882ed30-11f5-4124-b5d2-0e9b2543b0b6" />
+My build process started by stripping the bike of all of the old shifting, wheels, and chain. I then built the battery using a spot welder. Then I fitted the battery into the casing and soldered on the XT90 connection on the main power wires. I mounted it on the bike. I then mounted the controller, motor, screen and throttle.
+
+After connecting everything together I was able to test if my design was at least somewhat functional. The motor did not spin initially. I decided to take off the battery and investigate and I found that when securing the case, one of the thin BMS cell group wires had been torn from the BMS. I had to re-solder all 14 connections using a new bunch of wires. 
+
+I secured the battery to the bike and tested the motor and it worked correctly. I then attached the rear derailleur, chain, brakes, brake sensors, and the pedal assist sensor.
 
 Mechanical Integration Summary:
 
-<img width="657" height="272" alt="Screenshot 2026-08-06 at 10 47 08 AM" src="https://github.com/user-attachments/assets/5a182f9f-d45d-4f2a-b3f4-ba868b101b4a" />
+This ebike conversion project was built around a 13S5P battery pack that I mounted to the cylindrical downtube with a cylindrical mounting tube and hose clamps. Originally, I planned to mount the ESC underneath the battery on the underside of the downtube, however the factory ESC clamps were too small for the large downtube diameter. I considered braising on the ESC but this would have been an added cost that I wasn’t willing to take on. So I mounted the ESC to the front side of the seattube where it happily fit. 
 
-What I demonstrated:
+The motor fit snugly in the steel rear dropouts. The steel frame gave me a bit of security to know that the rear dropouts weren’t going to quickly wear down from the heavy torque, especially because I installed a universal torque arm. 
 
-<img width="653" height="295" alt="Screenshot 2026-08-06 at 11 15 30 AM" src="https://github.com/user-attachments/assets/e1ac8cb0-e070-4570-9b46-f1e9ed8c580d" />
+I was able to secure all of the wires to the frame with mainly zipties, but while still leaving enough slack for them to wiggle a bit.
 
 Future Improvements:
 
-<img width="668" height="190" alt="Screenshot 2026-08-06 at 11 47 57 AM" src="https://github.com/user-attachments/assets/1a218c8f-23fe-496b-8edf-86c37618dd3f" />
+- I think that there could be improvements made on improving the motor rattle at high speeds. Or at least figuring out the source of it. My first step would be to use temperature sensors to test whether the rattling only occurs at high motor temps.
+
+- I would like to eventually add disk brakes to this bike, however that would require a new front wheel. E bikes are a lot more powerful and I think having the strength and further consistency of disk brakes as opposed to rim brakes would be nice.
+
+- Lastly, I would like to make the bike more comfortable. The bike currently has no suspension and feels a bit stiff. I would like to add a shock absorbing stem and a dropper seat post.
 
 Here are my progress photos:
 
