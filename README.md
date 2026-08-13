@@ -110,8 +110,6 @@ Here are my progress photos:
 
 <img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
 
-<img width="494" height="709" alt="Screenshot 2026-07-14 at 9 23 11 AM" src="https://github.com/user-attachments/assets/89626d5c-a3ca-45f4-b46a-114505511429" />
-
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
 <img width="872" height="670" alt="Screenshot 2026-07-26 at 10 30 43 PM" src="https://github.com/user-attachments/assets/8ee4705b-d508-47a7-8c02-fc7ea043f699" />
