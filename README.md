@@ -88,9 +88,9 @@ Here are my progress photos:
 
 <img width="4032" height="3024" alt="IMG_5485-2" src="https://github.com/user-attachments/assets/e7348fb4-9ecc-4928-9e7b-9be136b2de9b" />
 
-<img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
-
 <img width="3024" height="4032" alt="IMG_5564" src="https://github.com/user-attachments/assets/766d0c4f-565c-4d4b-8341-a2e718c055b3" />
+
+<img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
 
 <img width="406" height="450" alt="Screenshot 2026-07-14 at 8 58 05 AM" src="https://github.com/user-attachments/assets/da6096c7-86b6-4d86-a256-6351d9b9c64c" />
 
