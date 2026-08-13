@@ -1,6 +1,7 @@
 Bike Statistics:
 
 <img width="207" height="300" alt="Screenshot 2026-08-12 at 4 33 58 PM" src="https://github.com/user-attachments/assets/c2afff47-fa64-439e-9bf7-faff264f6a5d" />
+<img width="435" height="617" alt="Screenshot 2026-07-14 at 8 56 33 AM" src="https://github.com/user-attachments/assets/6d69fb5b-47ef-4ff4-b510-7ddffe5df0d5" />
 <img width="942" height="253" alt="Screenshot 2026-08-12 at 4 26 22 PM" src="https://github.com/user-attachments/assets/d596dc4b-c37a-4cac-96d5-db037c38d477" />
 <img width="412" height="175" alt="Screenshot 2026-08-12 at 4 33 00 PM" src="https://github.com/user-attachments/assets/0711ef9d-d275-4b74-9c3a-691b6372878a" />
 
