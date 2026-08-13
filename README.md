@@ -2,6 +2,18 @@ Paramount-Series-50-Ebike-Conversion
 
 I designed and built my own 13S5P lithium ion battery pack in order to convert an old Paramount mountain bike into an ebike. 
 
+Before:
+
+<img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
+
+<img width="4032" height="3024" alt="IMG_5485-2" src="https://github.com/user-attachments/assets/e7348fb4-9ecc-4928-9e7b-9be136b2de9b" />
+
+After:
+
+<img width="872" height="538" alt="Screenshot 2026-08-12 at 6 17 08 PM" src="https://github.com/user-attachments/assets/9f3e7798-2200-4c62-add5-7b3a1d3301aa" />
+
+<img width="812" height="548" alt="Screenshot 2026-08-12 at 6 16 56 PM" src="https://github.com/user-attachments/assets/6e698c10-f50d-419a-90a0-5a1bd54e5eb6" />
+
 Project Overview:
 
 What I Built:
@@ -83,10 +95,6 @@ Future Improvements:
 - Lastly, I would like to make the bike more comfortable. The bike currently has no suspension and feels a bit stiff. I would like to add a shock absorbing stem and a dropper seat post.
 
 Here are my progress photos:
-
-<img width="4032" height="3024" alt="IMG_5441-2" src="https://github.com/user-attachments/assets/aa241e10-9e2e-4f6e-b18c-d7225eacf886" />
-
-<img width="4032" height="3024" alt="IMG_5485-2" src="https://github.com/user-attachments/assets/e7348fb4-9ecc-4928-9e7b-9be136b2de9b" />
 
 <img width="3024" height="4032" alt="IMG_5564" src="https://github.com/user-attachments/assets/766d0c4f-565c-4d4b-8341-a2e718c055b3" />
 
