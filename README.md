@@ -100,7 +100,7 @@ What I learned:
 
 - The general idea behind how a battery pack is assembled.
 
-- How the battery and controller/inverter work together to spin the motor.
+- How the battery and controller/inverter work together to spin the rotor.
 
 - How CC-CV charging works and why is it necessary.
 
