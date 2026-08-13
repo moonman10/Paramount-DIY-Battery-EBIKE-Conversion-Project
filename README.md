@@ -106,7 +106,7 @@ What I learned:
 
 Here are my progress photos:
 
-<img width="3024" height="4032" alt="IMG_5564" src="https://github.com/user-attachments/assets/766d0c4f-565c-4d4b-8341-a2e718c055b3" />
+<img width="477" height="380" alt="Screenshot 2026-08-12 at 7 30 10 PM" src="https://github.com/user-attachments/assets/786e1493-6170-4de7-9fdb-69aeb4231b0a" />
 
 <img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
 
@@ -149,6 +149,10 @@ https://github.com/user-attachments/assets/909b0014-d12a-4832-a319-c719571f4bf7
 <img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
 
 https://github.com/user-attachments/assets/77ca42c9-525c-4bb8-a3cf-a770e6852ba3
+
+https://github.com/user-attachments/assets/fed6bd8f-7673-4477-bd77-c05702b0d8ad
+
+
 
 
 
