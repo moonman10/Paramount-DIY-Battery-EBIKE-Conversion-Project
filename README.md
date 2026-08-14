@@ -124,11 +124,15 @@ This is the pack post spot welding.
 
 <img width="914" height="635" alt="Screenshot 2026-07-14 at 9 00 08 AM" src="https://github.com/user-attachments/assets/8b2f811f-7bd8-4946-b189-e27579355b31" />
 
-
+I added a bit of insulator tape and started to figure out how long all of the BMS balance wires needed to be and validated that the BMS would fit.
 
 <img width="494" height="646" alt="Screenshot 2026-07-14 at 9 01 37 AM" src="https://github.com/user-attachments/assets/c0a3e1e7-f669-42aa-815f-046c472115c1" />
 
+I then soldered on the balance wires to each cell group.
+
 <img width="451" height="376" alt="Screenshot 2026-07-14 at 9 06 52 AM" src="https://github.com/user-attachments/assets/9915a542-f8b2-4f36-8ea6-0d66dc155106" />
+
+
 
 <img width="528" height="412" alt="Screenshot 2026-07-14 at 9 08 08 AM" src="https://github.com/user-attachments/assets/a790f7e0-4397-4203-9b86-25a27bee2e47" />
 
