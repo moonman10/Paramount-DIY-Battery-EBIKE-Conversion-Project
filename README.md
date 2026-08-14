@@ -138,7 +138,7 @@ I soldered the rest of the wires and then finished insulation the entire battery
 
 Made sure to add the inline fuse, and then I was ready to fit the battery in the pack and then I tested the voltage of the power wires.
 
-<img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
+<img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
 
 I mounted the battery pack, controller, wheel to the bike but the wheel would not respond to the throttle.
 
@@ -146,14 +146,13 @@ I mounted the battery pack, controller, wheel to the bike but the wheel would no
 
 <img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
 
-
-<img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
-
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
 https://github.com/user-attachments/assets/909b0014-d12a-4832-a319-c719571f4bf7
 
 <img width="494" height="606" alt="Screenshot 2026-08-12 at 6 23 02 PM" src="https://github.com/user-attachments/assets/71537dc1-2da1-43e3-be37-ddd7b5992676" />
+
+<img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
 
 <img width="374" height="591" alt="Screenshot 2026-08-12 at 6 20 40 PM" src="https://github.com/user-attachments/assets/cfea052a-a20c-49e8-b6e6-16420056ae58" />
 
