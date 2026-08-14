@@ -142,13 +142,21 @@ Made sure to add the inline fuse, and then I was ready to fit the battery in the
 
 I mounted the battery pack, controller, wheel to the bike but the wheel would not respond to the throttle.
 
+<img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
+
+I discovered that one of the BMS balance wires was broken when I was inserting the battery into the casing. So I had to order new balance wires and re-solder all of them.
+
 <img width="697" height="377" alt="Screenshot 2026-07-14 at 9 09 55 AM" src="https://github.com/user-attachments/assets/4c8fd2ec-bdcf-4164-b190-4b1ba884973e" />
 
-<img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
+This time I reinforced the white BMS connector with extra insulator tape.
 
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
+I remounted the battery and the wheel responded to the throttle as planned.
+
 https://github.com/user-attachments/assets/909b0014-d12a-4832-a319-c719571f4bf7
+
+Screen.
 
 <img width="494" height="606" alt="Screenshot 2026-08-12 at 6 23 02 PM" src="https://github.com/user-attachments/assets/71537dc1-2da1-43e3-be37-ddd7b5992676" />
 
