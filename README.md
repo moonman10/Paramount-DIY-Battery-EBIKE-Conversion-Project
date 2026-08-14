@@ -120,7 +120,11 @@ This is the orientation of the cells before spot welding. You can see that I add
 
 <img width="445" height="700" alt="Screenshot 2026-08-02 at 9 45 34 PM" src="https://github.com/user-attachments/assets/a00ca2e0-45e0-406a-a72a-66ee4af68f53" /> 
 
+This is the pack post spot welding.
+
 <img width="914" height="635" alt="Screenshot 2026-07-14 at 9 00 08 AM" src="https://github.com/user-attachments/assets/8b2f811f-7bd8-4946-b189-e27579355b31" />
+
+
 
 <img width="494" height="646" alt="Screenshot 2026-07-14 at 9 01 37 AM" src="https://github.com/user-attachments/assets/c0a3e1e7-f669-42aa-815f-046c472115c1" />
 
