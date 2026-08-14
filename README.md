@@ -107,7 +107,9 @@ What I learned:
 Here are my progress photos:
 
 <img width="477" height="380" alt="Screenshot 2026-08-12 at 7 30 10 PM" src="https://github.com/user-attachments/assets/786e1493-6170-4de7-9fdb-69aeb4231b0a" />
+
 This is the lithium ion cell that I used. The Monocle INR 18650 P26A.
+
 <img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
 
 <img width="406" height="450" alt="Screenshot 2026-07-14 at 8 58 05 AM" src="https://github.com/user-attachments/assets/da6096c7-86b6-4d86-a256-6351d9b9c64c" />
