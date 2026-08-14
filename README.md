@@ -112,7 +112,11 @@ This is the lithium ion cell that I used. The Monocle INR 18650 P26A.
 
 <img width="3727" height="4442" alt="tempImage5jf5pm" src="https://github.com/user-attachments/assets/e048a8d2-19ee-47e4-83a0-4b07d84d74c0" />
 
+This is me measuring the voltage of each individual cell to make sure that there weren't any bad ones.
+
 <img width="406" height="450" alt="Screenshot 2026-07-14 at 8 58 05 AM" src="https://github.com/user-attachments/assets/da6096c7-86b6-4d86-a256-6351d9b9c64c" />
+
+This is the orientation of the cells before spot welding. You can see that I added insulator rings to the positive terminal of the cells to keep cell positive more separate from cell negative.
 
 <img width="445" height="700" alt="Screenshot 2026-08-02 at 9 45 34 PM" src="https://github.com/user-attachments/assets/a00ca2e0-45e0-406a-a72a-66ee4af68f53" /> 
 
