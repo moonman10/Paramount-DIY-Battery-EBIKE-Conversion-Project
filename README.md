@@ -158,17 +158,19 @@ https://github.com/user-attachments/assets/909b0014-d12a-4832-a319-c719571f4bf7
 
 Screen.
 
+<img width="872" height="670" alt="Screenshot 2026-07-26 at 10 30 43 PM" src="https://github.com/user-attachments/assets/8ee4705b-d508-47a7-8c02-fc7ea043f699" />
+
+I added the tire to the back rim.
+
 <img width="494" height="606" alt="Screenshot 2026-08-12 at 6 23 02 PM" src="https://github.com/user-attachments/assets/71537dc1-2da1-43e3-be37-ddd7b5992676" />
 
 <img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
 
+<img width="522" height="689" alt="Screenshot 2026-08-12 at 6 22 17 PM" src="https://github.com/user-attachments/assets/63397964-7ca0-40e6-a05d-3aa60da43de6" />
+
 <img width="374" height="591" alt="Screenshot 2026-08-12 at 6 20 40 PM" src="https://github.com/user-attachments/assets/cfea052a-a20c-49e8-b6e6-16420056ae58" />
 
 <img width="444" height="492" alt="Screenshot 2026-08-12 at 6 20 57 PM" src="https://github.com/user-attachments/assets/4dddef9c-61fd-43cf-a3b3-578d891b8ad7" />
-
-<img width="522" height="689" alt="Screenshot 2026-08-12 at 6 22 17 PM" src="https://github.com/user-attachments/assets/63397964-7ca0-40e6-a05d-3aa60da43de6" />
-
-<img width="872" height="670" alt="Screenshot 2026-07-26 at 10 30 43 PM" src="https://github.com/user-attachments/assets/8ee4705b-d508-47a7-8c02-fc7ea043f699" />
 
 <img width="521" height="703" alt="Screenshot 2026-08-02 at 9 45 57 PM" src="https://github.com/user-attachments/assets/b6f2df05-a1e4-4f8c-9c72-1b64ec26bc82" />
 
