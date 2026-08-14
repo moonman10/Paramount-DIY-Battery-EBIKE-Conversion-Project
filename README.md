@@ -136,6 +136,8 @@ I soldered the rest of the wires and then finished insulation the entire battery
 
 <img width="528" height="412" alt="Screenshot 2026-07-14 at 9 08 08 AM" src="https://github.com/user-attachments/assets/a790f7e0-4397-4203-9b86-25a27bee2e47" />
 
+Made sure to add the inline fuse, and then I was ready to fit the battery in the pack and then I tested the voltage. 45 V was 
+
 <img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
 
 <img width="697" height="377" alt="Screenshot 2026-07-14 at 9 09 55 AM" src="https://github.com/user-attachments/assets/4c8fd2ec-bdcf-4164-b190-4b1ba884973e" />
