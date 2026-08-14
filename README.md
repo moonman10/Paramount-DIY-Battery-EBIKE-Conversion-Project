@@ -140,13 +140,12 @@ Made sure to add the inline fuse, and then I was ready to fit the battery in the
 
 <img width="697" height="377" alt="Screenshot 2026-07-14 at 9 09 55 AM" src="https://github.com/user-attachments/assets/4c8fd2ec-bdcf-4164-b190-4b1ba884973e" />
 
-<img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
-
 <img width="279" height="569" alt="Screenshot 2026-07-14 at 9 08 52 AM" src="https://github.com/user-attachments/assets/64d6c5ba-94c8-4740-9ac6-52f9f9faeab5" />
 
-<img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
 
-<img width="522" height="689" alt="Screenshot 2026-08-12 at 6 22 17 PM" src="https://github.com/user-attachments/assets/63397964-7ca0-40e6-a05d-3aa60da43de6" />
+<img width="566" height="718" alt="Screenshot 2026-07-14 at 9 22 11 AM" src="https://github.com/user-attachments/assets/78f1b438-677f-4e28-8421-d480e08896de" />
+
+<img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
 
 https://github.com/user-attachments/assets/f7685518-4ae5-4343-bd6b-281c48106b2e
 
@@ -157,6 +156,8 @@ https://github.com/user-attachments/assets/909b0014-d12a-4832-a319-c719571f4bf7
 <img width="374" height="591" alt="Screenshot 2026-08-12 at 6 20 40 PM" src="https://github.com/user-attachments/assets/cfea052a-a20c-49e8-b6e6-16420056ae58" />
 
 <img width="444" height="492" alt="Screenshot 2026-08-12 at 6 20 57 PM" src="https://github.com/user-attachments/assets/4dddef9c-61fd-43cf-a3b3-578d891b8ad7" />
+
+<img width="522" height="689" alt="Screenshot 2026-08-12 at 6 22 17 PM" src="https://github.com/user-attachments/assets/63397964-7ca0-40e6-a05d-3aa60da43de6" />
 
 <img width="872" height="670" alt="Screenshot 2026-07-26 at 10 30 43 PM" src="https://github.com/user-attachments/assets/8ee4705b-d508-47a7-8c02-fc7ea043f699" />
 
