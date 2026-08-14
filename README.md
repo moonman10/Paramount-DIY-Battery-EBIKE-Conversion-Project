@@ -132,7 +132,7 @@ I then soldered on the balance wires to each cell group.
 
 <img width="451" height="376" alt="Screenshot 2026-07-14 at 9 06 52 AM" src="https://github.com/user-attachments/assets/9915a542-f8b2-4f36-8ea6-0d66dc155106" />
 
-
+I soldered the rest of the wires and then finished insulation the entire battery.
 
 <img width="528" height="412" alt="Screenshot 2026-07-14 at 9 08 08 AM" src="https://github.com/user-attachments/assets/a790f7e0-4397-4203-9b86-25a27bee2e47" />
 
