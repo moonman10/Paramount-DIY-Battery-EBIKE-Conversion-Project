@@ -164,7 +164,11 @@ I added the tire to the back rim.
 
 <img width="494" height="606" alt="Screenshot 2026-08-12 at 6 23 02 PM" src="https://github.com/user-attachments/assets/71537dc1-2da1-43e3-be37-ddd7b5992676" />
 
+Handlebars with throttle on left and screen on right.
+
 <img width="525" height="708" alt="Screenshot 2026-08-12 at 6 21 28 PM" src="https://github.com/user-attachments/assets/9488757c-ed81-4d45-a6bd-57dfe867ccb6" />
+
+
 
 <img width="522" height="689" alt="Screenshot 2026-08-12 at 6 22 17 PM" src="https://github.com/user-attachments/assets/63397964-7ca0-40e6-a05d-3aa60da43de6" />
 
@@ -175,6 +179,10 @@ I added the tire to the back rim.
 <img width="521" height="703" alt="Screenshot 2026-08-02 at 9 45 57 PM" src="https://github.com/user-attachments/assets/b6f2df05-a1e4-4f8c-9c72-1b64ec26bc82" />
 
 <img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
+
+<img width="872" height="538" alt="Screenshot 2026-08-12 at 6 17 08 PM" src="https://github.com/user-attachments/assets/9f3e7798-2200-4c62-add5-7b3a1d3301aa" />
+
+<img width="812" height="548" alt="Screenshot 2026-08-12 at 6 16 56 PM" src="https://github.com/user-attachments/assets/6e698c10-f50d-419a-90a0-5a1bd54e5eb6" />
 
 https://github.com/user-attachments/assets/d6382416-3bef-4d25-9b0b-de143a25eade
 
