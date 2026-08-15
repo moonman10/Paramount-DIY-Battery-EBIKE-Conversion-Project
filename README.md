@@ -74,27 +74,41 @@ Vdrop = Vinitial - Vfinal = 50.4 - 50.2 = 0.2V.
 
 This voltage was measured by the display and is most likely highly inaccurate.
 
-Build Process Summary:
+Building Process:
 
-My build process started by stripping the bike of all of the old shifting, wheels, and chain. I then built the battery using a spot welder. Then I fitted the battery into the casing and soldered on the XT90 connection on the main power wires. I mounted it on the bike. I then mounted the controller, motor, screen and throttle.
+- I made important bike measurements and determined what parts what I would need to order and made sure that they were compatible with each other.
 
-After connecting everything together I was able to test if my design was at least somewhat functional. The motor did not spin initially. I decided to take off the battery and investigate and I found that when securing the case, one of the thin BMS cell group wires had been torn from the BMS. I had to re-solder all 14 connections using a new bunch of wires. 
+- I stripped the bike of the old brakes, chain and gearing. Had all the parts delivered.
 
-I secured the battery to the bike and tested the motor and it worked correctly. I then attached the rear derailleur, chain, brakes, brake sensors, and the pedal assist sensor.
+- I built the and tested the battery, and mounted the motor and controller.
 
-Mechanical Integration Summary:
+- I added the display, throttle, pedal assist sensor, and brake sensors.
 
-This ebike conversion project was built around a 13S5P battery pack that I mounted to the cylindrical downtube with a cylindrical mounting tube and hose clamps. Originally, I planned to mount the ESC underneath the battery on the underside of the downtube, however the factory ESC clamps were too small for the large downtube diameter. I considered braising on the ESC but this would have been an added cost that I wasn’t willing to take on. So I mounted the ESC to the front side of the seattube where it happily fit. 
+- Secured all wires, and further tested all components before riding.
 
-The motor fit snugly in the steel rear dropouts. The steel frame gave me a bit of security to know that the rear dropouts weren’t going to quickly wear down from the heavy torque, especially because I installed a universal torque arm. 
+Battery Building Summary:
 
-I was able to secure all of the wires to the frame with mainly zipties, but while still leaving enough slack for them to wiggle a bit.
+- I started by measuring the voltage of each individual cell and recorded 3.52 V for each one.
+
+- I added insulation rings to each cell and placed them in the correct orientation using the battery casing honeycomb cell holders.
+
+- I spot welded the pure .15mm nickel strips onto the cells.
+
+- I soldered the BMS balance wires onto the tabs of the parallel cell groups. I secured the BMS to the pack with insulator tape.
+
+- I soldered the rest of the wiring such as the charge and discharge wires onto the battery pack.
+
+- I completely insulated the battery.
+
+- I fitted the battery securely within the casing.
+
+- I ended up needing to replace a broken BMS balance wire and fix the polarity of my charge wires at the charge port.
 
 Future Improvements:
 
-- I think that there could be improvements made on improving the motor rattle at high speeds. Or at least figuring out the source of it. My first step would be to use temperature sensors to test whether the rattling only occurs at high motor temps.
+- I think that there could be troubleshooting done on the motor rattle at high speeds. Or at least figuring out the source of it. My first step would be to use temperature sensors to test whether the rattling only occurs at high motor temps.
 
-- I would like to eventually add disk brakes to this bike, however that would require a new front wheel. E bikes are a lot more powerful and I think having the strength and further consistency of disk brakes as opposed to rim brakes would be nice.
+- I would like to eventually add disk brakes to this bike, however that would require a new front wheel. E bikes are a lot more powerful and I think having the added strength and consistency of disk brakes as opposed to rim brakes would be nice.
 
 - Lastly, I would like to make the bike more comfortable. The bike currently has no suspension and feels a bit stiff. I would like to add a shock absorbing stem and a dropper seat post.
 
@@ -107,6 +121,8 @@ What I learned:
 - How the battery and controller/inverter work together to spin the rotor.
 
 - How CC-CV charging works and why is it necessary.
+
+(I go more in depth on these topics in my 
 
 Here are my progress photos:
 
