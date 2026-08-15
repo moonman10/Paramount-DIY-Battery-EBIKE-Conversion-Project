@@ -180,15 +180,23 @@ Drive side axle with torque arm.
 
 <img width="444" height="492" alt="Screenshot 2026-08-12 at 6 20 57 PM" src="https://github.com/user-attachments/assets/4dddef9c-61fd-43cf-a3b3-578d891b8ad7" />
 
-Non Drive side axle.
+Non-drive side axle.
 
 <img width="521" height="703" alt="Screenshot 2026-08-02 at 9 45 57 PM" src="https://github.com/user-attachments/assets/b6f2df05-a1e4-4f8c-9c72-1b64ec26bc82" />
 
+Front Rim Brake.
+
 <img width="505" height="690" alt="Screenshot 2026-08-02 at 9 46 08 PM" src="https://github.com/user-attachments/assets/b847d670-8e57-4136-b394-eccfd92a2def" />
+
+Rear Rim Brake.
 
 <img width="872" height="538" alt="Screenshot 2026-08-12 at 6 17 08 PM" src="https://github.com/user-attachments/assets/9f3e7798-2200-4c62-add5-7b3a1d3301aa" />
 
+Final Photo Drive Side.
+
 <img width="812" height="548" alt="Screenshot 2026-08-12 at 6 16 56 PM" src="https://github.com/user-attachments/assets/6e698c10-f50d-419a-90a0-5a1bd54e5eb6" />
+
+Final Photo Non-drive Side.
 
 https://github.com/user-attachments/assets/d6382416-3bef-4d25-9b0b-de143a25eade
 
