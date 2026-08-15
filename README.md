@@ -30,7 +30,7 @@ My goals were to build a safe and durable ebike capable of reaching 25 MPH on fl
 
 Outcome:
 
-On flat pavement, the bike is able to reach 25 MPH without any pedaling. With pedaling, it sits comfortably at 28-29 MPH. The range of the bike will depend on whether or not you are using heavy throttle or more pedal assist and what speed mode you are mainly in. It hovers around an estimated 35 miles when using heavy throttle and some pedaling. It has a total of 608.4 Wh but usable energy is probably a bit lower. So with the 35 miles of range, the estimated Wh/mile is around 17.38. I ended up spending around $990 dollars on this project. The bike weighs 40.5 pounds. Everything fit well on the bike like I planned except the front derailleur which isn't that necessary for this bike. The bike is fitted with many important safety features such as a torque arm, brake sensors, and zip ties for holding cables in place.
+On flat pavement, the bike is able to reach 25 MPH without any pedaling. With pedaling, it sits comfortably at 28-29 MPH. The range of the bike will depend on whether or not you are using heavy throttle or more pedal assist and what speed mode you are mainly in. It hovers around an estimated 35 miles when using heavy throttle and some pedaling. It has a total of 608.4 Wh but usable energy is probably a bit lower. So with the 35 miles of range, the estimated Wh/mile is around 17.38. I spent $997 dollars on this project. The bike weighs 40.5 pounds. Everything fit well on the bike like I planned except the front derailleur which isn't that necessary for this bike. The bike is fitted with many important safety features such as a torque arm, brake sensors, and zip ties for holding cables in place.
 
 System Block Diagram/Design Photos:
 
