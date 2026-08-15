@@ -18,19 +18,19 @@ Project Overview:
 
 What I Built:
 
-I built a 46.8V, 13Ah battery for my 500W motor to power a low to medium speed Class 3 Ebike. I used an old steel cross country mountain bike frame that my grandfather has been riding since the 70’s. The electrical system includes pedal assist, a throttle, brake sensors,  an 18A max current controller. The mechanical system includes new rim brakes, new chain, new rear derailleur, and a new cassette. I decided to not add shifting because the chain is on the lowest gear and with the power from the battery, there isn’t ever any need for a lower gear. 
+I built a 46.8V, 13Ah battery to convert an old mountain bike frame into a Class 3 Ebike. I used an old steel cross country mountain bike frame that my grandfather has been riding since the 70’s. The main components are the battery, a 500W rear brushless hub motor, an 18A max input current controller, a throttle, a pedal assist sensor, brake sensors, new rim brakes, a new chain, a new rear derailleur, and a new cassette. 
 
 Why I Built It: 
 
-I decided to build this bike for my father and grandfather. My grandfather has been riding this frame since the 70’s. He gifted this bike to my father a few years back after he stopped riding. It had a lot of worn down parts and was kind of a pain to ride so my father didn’t get much use out of it. Coming home for the summer, I decided it was time to give the bike new life. My father has always wanted an ebike and so I decided I could kill two birds with one stone and build one for him. Being interested in batteries, I decided to take on the extra cost of building my own battery because I thought it would make the project more challenging and interesting. My father now enjoys riding his bike around town. He likes to be able to relax and rely on the throttle, but also get a bit of a workout in and just use the pedal assist.
+I decided to build this bike for my father and grandfather. My grandfather has been riding this frame since the 70’s. He gifted this bike to my father a few years back after he stopped riding. It had a lot of worn down parts and was kind of a pain to ride so my father didn’t get much use out of it. Coming home for the summer, I decided it was time to give the bike new life. My father has always wanted an ebike and so I decided I could build one for him. Being interested in batteries, I decided to take on the extra challenge of building my own.
 
 My Goals and Constraints:
 
-My goals were to build a safe and durable ebike capable of reaching 25 MPH on flat roads without pedaling, and with 30 miles of range. My main constraint was cost. I decided I had a budget of $1000 dollars for this project. Building the battery was the biggest cost as I had very little equipment at home to do this with and cells are expensive. I also wanted the bike to weigh in at under 50 pounds when everything was on the bike. I also needed to make sure that the bike frame could accommodate all of the new things going on the bike as well as all of the torque that the motor puts on the rear dropout. Building the battery was the biggest cost as I had very little equipment at home to do this with and cells are expensive. 
+My goals were to build a safe and durable ebike capable of reaching 25 MPH on flat roads without pedaling, and with 30 miles of range. My main constraint was cost. I had a budget of $1000 dollars for this project. Building the battery was the biggest cost as I had very little equipment at home to do this with and cells are expensive. I also wanted the bike to weigh in at under 50 pounds after completion. I also needed to make sure that the bike frame could accommodate all of the new things going on the bike. I also needed to consider the stress that the motor was going to put on my rear drop outs. 
 
 Outcome:
 
-On flat pavement, the bike is able to reach 25 MPH without any pedaling. With pedaling, it sits comfortably at 28-29 MPH. The range of the bike will depend on whether or not you are using heavy throttle or more pedal assist and what speed mode you are mainly in. It hovers around an estimated 35 miles when using heavy throttle and some pedaling. It has a total of 608.4 Wh but usable energy is probably a bit lower. So with the 35 miles of range, the estimated Wh/mile is around 17.38. I ended up spending around $990 dollars on this project. The bike weighs 40.5 pounds. Everything fit well on the bike like I planned except the front derailleur. The bike is fitted with many important safety features such as a torque arm, brake sensors, and zip ties for holding cables in place.
+On flat pavement, the bike is able to reach 25 MPH without any pedaling. With pedaling, it sits comfortably at 28-29 MPH. The range of the bike will depend on whether or not you are using heavy throttle or more pedal assist and what speed mode you are mainly in. It hovers around an estimated 35 miles when using heavy throttle and some pedaling. It has a total of 608.4 Wh but usable energy is probably a bit lower. So with the 35 miles of range, the estimated Wh/mile is around 17.38. I ended up spending around $990 dollars on this project. The bike weighs 40.5 pounds. Everything fit well on the bike like I planned except the front derailleur which isn't that necessary for this bike. The bike is fitted with many important safety features such as a torque arm, brake sensors, and zip ties for holding cables in place.
 
 System Block Diagram/Design Photos:
 
@@ -44,7 +44,7 @@ Important Electrical Calculations:
 
 E = V(nominal)xAh(total) = 46.8 x 13 = 608.4 Wh
 
-Battery has an energy capacity of 608.4 Wh. Usable energy may be lower.
+Battery has an energy capacity of 608.4 Wh. Usable energy is probably lower.
 
 2. Maximum Controller Input Power:
 
@@ -52,13 +52,15 @@ The controller has a max rated input current of 18A.
 
 At full charge the battery has 54.6V. So Pmax = 54.6 x 18 = 982.8 W.
 
-At nominal voltage of 46.8V the Pnominal = 46.8 x 18 = 842.4 W.
+This means the controller has a maximum battery side input power of 982.8 W when the battery is at max voltage.
 
-These are theoretical power input values.
+At batteries nominal voltage of 46.8V the Pnominal = 46.8 x 18 = 842.4 W.
+
+These are theoretical power input values and do not tell us how much power the controller is delivering to the motor.
 
 3. Estimated Range:
 
-Using a 90% usable energy estimation, and an average estimated consumption of 17Wh/mile which is typical for this motor:
+Using a 90% usable energy estimation, and an average estimated consumption of 17Wh/mile which is typical for this type of motor:
 
 Range = Usable energy/(Wh/Mile) = (.9 X 608.4)/(17) = 32.2 miles.
 
@@ -69,6 +71,8 @@ Uses a measured initial voltage of 50.4V and a display measured post-acceleratio
 Vdrop = Vinitial - Vfinal = 50.4 - 50.2 = 0.2V.
 
 %drop = 0.2/50.4 = .39%
+
+This voltage was measured by the display and is most likely highly inaccurate.
 
 Build Process Summary:
 
