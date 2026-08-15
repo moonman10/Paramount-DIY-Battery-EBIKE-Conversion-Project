@@ -200,11 +200,15 @@ Final Photo Non-drive Side.
 
 https://github.com/user-attachments/assets/d6382416-3bef-4d25-9b0b-de143a25eade
 
+Downhill test run clip.
+
 https://github.com/user-attachments/assets/c1bc059b-d885-4b4b-afb8-47811cfc42c1
+
+Uphill test run clip.
 
 https://github.com/user-attachments/assets/48cc867e-3c4a-477d-a456-a1bcf3825056
 
-
+25 MPH top speed test clip.
 
 
 
