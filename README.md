@@ -122,7 +122,7 @@ What I learned:
 
 - How CC-CV charging works and why is it necessary.
 
-(I go more in depth on these topics in my 
+(I go more in depth on these topics in my 00What I Learned.md)
 
 Here are my progress photos:
 
